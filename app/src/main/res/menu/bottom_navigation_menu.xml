@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_online_class"
+        android:icon="@drawable/online_class"
+        android:title="Online Class" />
+    <item
+        android:id="@+id/navigation_video_class"
+        android:icon="@drawable/video_class"
+        android:title="Video Class" />
+    <item
+        android:id="@+id/navigation_document"
+        android:icon="@drawable/online_document"
+        android:title="Document" />
+    <item
+        android:id="@+id/navigation_assesment"
+        android:icon="@drawable/online_document"
+        android:title="Assesment" />
+    <item
+        android:id="@+id/navigation_message"
+        android:icon="@drawable/message"
+        android:title="Message" />
+</menu>

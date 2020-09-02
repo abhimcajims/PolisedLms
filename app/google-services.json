@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "269938745116",
+    "firebase_url": "https://polishedlms.firebaseio.com",
+    "project_id": "polishedlms",
+    "storage_bucket": "polishedlms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269938745116:android:7abb435c1323436986a4d9",
+        "android_client_info": {
+          "package_name": "com.project.polishedlms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269938745116-cpbomcrh7gplsjffe9329kutdq1n0f0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOG15X89qSBC6QUYFvjmbyMuP0FfXZKL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269938745116-cpbomcrh7gplsjffe9329kutdq1n0f0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

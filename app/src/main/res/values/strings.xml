@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PolishedLms</string>
+    <string name="logout">LOGOUT</string>
+
+    <!-- Message to display while video is buffering. -->
+    <string name="buffering_string">Buffering&#8230;</string>
+
+    <!-- Message to display when video is finished playing. -->
+    <string name="toast_message">Playback completed.</string>
+    <string name="warning_message">This user already logged in with another device.</string>
+</resources>
